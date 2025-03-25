@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffff;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+    font-size: 20px;
+}
+
+.mb-3 {
+    font-size: 18px;
+}
+
+.mt-3 {
+    font-size: 18px;
+}
